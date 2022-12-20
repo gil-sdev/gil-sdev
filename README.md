@@ -1,5 +1,5 @@
 # 💫 About Me: Hi 
-- 👋 Hi, I’m @gil-sdev<br>- 👀 I’m interested in web development...<br>- 🌱 I’m currently learning **go, python, TypeScript and rust**<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...<br>- 🤝 I’m looking for help with **go, python and rust***<br>- 💬 Ask me about **laravel, php, arduino, java, c#. JavaScript**
+- 👋 Hi, I’m @gil-sdev<br>- 👀 I’m interested in web development...<br>- 🌱 I’m currently learning **go, python, TypeScript and rust**<br>- 💞️ I’m looking to collaborate on php Projects...<br>- 📫 How to reach me ...<br>- 🤝 I’m looking for help with **go, python and rust***<br>- 💬 Ask me about **laravel, php, arduino, java, c#. JavaScript**
 
 "I have no special talent. I am only passionately curious." Albert Einstein
 ## 🌐 Socials:
