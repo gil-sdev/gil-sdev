@@ -1,7 +1,7 @@
-# 💫 About Me:
+# 💫 About Me: Hi 
 - 👋 Hi, I’m @gil-sdev<br>- 👀 I’m interested in web development...<br>- 🌱 I’m currently learning **go, python, TypeScript and rust**<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...<br>- 🤝 I’m looking for help with **go, python and rust***<br>- 💬 Ask me about **laravel, php, arduino, java, c#. JavaScript**
 
-
+"I have no special talent. I am only passionately curious." Albert Einstein
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gil-cruz) 
 
@@ -15,13 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gil-sdev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=gil-sdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
